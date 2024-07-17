@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610780
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : พีรภาส อย่างนะ
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/cpe207-students-167/lab07-seroseeisero
 
 ---
 
